@@ -136,7 +136,7 @@
 }
 
 .header .navbar-default .navbar-nav > .active > a {
-	color: #72c02c;
+	color: #3498db;
 }
 
 /*Dropdown*/
@@ -156,7 +156,7 @@
 .navbar-toggle,
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus {
-	background: #72c02c;
+	background: #3498db;
 }
 
 .navbar-toggle:hover {
@@ -192,8 +192,8 @@
 }
 
 .header .navbar .nav > li > a.search:hover {
-	color: #72c02c;
-	border-bottom-color: #72c02c;
+	color: #3498db;
+	border-bottom-color: #3498db;
 }
 
 .header .navbar .search-open form {
@@ -235,7 +235,7 @@
 
 	.header .navbar-default .navbar-nav > li > a:hover,
 	.header .navbar-default .navbar-nav > .active > a {
-		border-bottom: solid 2px #72c02c;
+		border-bottom: solid 2px #3498db;
 	}
 
 	.header .navbar-default .navbar-nav > li > a,
@@ -250,7 +250,7 @@
 	.header .navbar-default .navbar-nav > .open > a,
 	.header .navbar-default .navbar-nav > .open > a:hover,
 	.header .navbar-default .navbar-nav > .open > a:focus {
-		color: #72c02c;
+		color: #3498db;
 	}
 
 	/*Dropdown Menu*/
@@ -261,7 +261,7 @@
 		border-radius: 0; 
 		z-index: 9999 !important;
 		margin-top: -2px !important; 
-		border-top: solid 2px #72c02c; 
+		border-top: solid 2px #3498db; 
 		border-bottom: solid 2px #687074; 
 	}
 
